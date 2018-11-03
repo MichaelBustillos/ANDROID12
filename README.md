@@ -14,9 +14,72 @@ An app that builds off of the current online payment system used by apps like Ve
 
 ---
 
-### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+### User Stories 
+Required Must-have Stories
+
+Users can create an account
+Users can login
+Split up payments with friends
+Users can connect app to their Bank account
+Restaurants, retailers, etc. can charge groups all simultaneously
+Users can connect with other users and pay each other or pay retailers together
+Optional Nice-to-have Stories
+
+Adding profile picture
+Customizing limited aspects of app (background color, text size, etc.)
+User can see a list of their followers
+Notifications (when you’re paid, new login from another device, etc.)
+Users can set spend limits
+Add recommendation system where ads are displayed based off user’s spending history
+
+### Screen Archetypes
+Login Screen
+Users login
+Registration Screen
+Users create a new account
+Payment Screen
+Users can make payments/requests from other users
+Home Screen
+Users sees feed of their friends who have made recent payments
+Detail Screen
+User can like/comment on the transactions of other users who share it
+Profile Page
+change profile picture
+see recent transactions
+Search
+Look for other users/retailers
+Camera Screen
+Users can scan a code to instantly connect to restaurants/retailers to do the transaction
+Settings Screen
+Link Bank Account
+Privacy
+Notifications
+Change phone number
+ 
+### Navigation
+Tab Navigation (Tab to Screen)
+
+Home Screen
+Pay Tab
+Search
+Settings
+Flow Navigation (Screen to Screen)
+
+Login/New Account
+=> Home Screen
+
+Home Screen
+=> Detail Screen
+
+Payment Screen
+=> Search Screen DEFAULT
+=> Camera Screen
+
+Profile Page
+=> Detail Screen
+
+Settings Screen
+=> None
 
 ---
 
