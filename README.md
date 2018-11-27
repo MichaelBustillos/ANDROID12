@@ -84,7 +84,7 @@ Settings Screen
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+https://www.figma.com/proto/T5yQp4ErSVjkEXSuLA5A6wIY/Gimme-yo-money?embed_host=share&node-id=25%3A2&scaling=scale-down
 
 ---
 
